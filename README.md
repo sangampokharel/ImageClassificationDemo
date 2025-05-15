@@ -18,8 +18,8 @@ This is a simple iOS 18+ SwiftUI application that performs image classification 
 ## 🧪 Example Output
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/8e3cfa8b-e6b0-4437-a3ee-f23aaf9b2c35" alt="img1" width="200" />
-    <img src="https://github.com/user-attachments/assets/f068f7c1-e945-4e7f-bdb1-1c6428733a8b" alt="img2" width="200" />
+    <img src="https://github.com/user-attachments/assets/8e3cfa8b-e6b0-4437-a3ee-f23aaf9b2c35" alt="img1" width="500" />
+    <img src="https://github.com/user-attachments/assets/f068f7c1-e945-4e7f-bdb1-1c6428733a8b" alt="img2" width="500" />
    
 </div>
 
